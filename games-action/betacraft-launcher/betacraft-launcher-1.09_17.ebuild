@@ -20,4 +20,3 @@ BDEPEND=""
 
 JAVA_RESOURCE_DIRS="src/main/resources"
 JAVA_SRC_DIR="src/main/java"
-JAVA_GENTOO_CLASSPATH="com.google.code.gson:gson:2.10.1,net.arikia.dev:discord-rpc-without-jna:1.7.0"
