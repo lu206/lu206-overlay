@@ -12,6 +12,7 @@ SRC_URI="https://github.com/betacraftuk/betacraft-launcher/archive/refs/tags/1.0
 LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS="~amd64"
+IUSE=""
 
 DEPEND=""
 RDEPEND="${DEPEND}"
