@@ -9,7 +9,7 @@ DESCRIPTION="Betacraft launcher provides easy access to old Minecraft versions."
 HOMEPAGE="https://github.com/betacraftuk/betacraft-launcher"
 SRC_URI="https://github.com/betacraftuk/betacraft-launcher/archive/refs/tags/1.09_17.tar.gz"
 
-LICENSE=""
+LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS="~amd64"
 
